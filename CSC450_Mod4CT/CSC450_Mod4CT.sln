@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CSC450_Mod4CT", "CSC450_Mod4CT\CSC450_Mod4CT.vcxproj", "{CFA19010-C07B-4C20-9C62-D34F0C3A3F4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFA19010-C07B-4C20-9C62-D34F0C3A3F4C}.Debug|x64.ActiveCfg = Debug|x64
+		{CFA19010-C07B-4C20-9C62-D34F0C3A3F4C}.Debug|x64.Build.0 = Debug|x64
+		{CFA19010-C07B-4C20-9C62-D34F0C3A3F4C}.Debug|x86.ActiveCfg = Debug|Win32
+		{CFA19010-C07B-4C20-9C62-D34F0C3A3F4C}.Debug|x86.Build.0 = Debug|Win32
+		{CFA19010-C07B-4C20-9C62-D34F0C3A3F4C}.Release|x64.ActiveCfg = Release|x64
+		{CFA19010-C07B-4C20-9C62-D34F0C3A3F4C}.Release|x64.Build.0 = Release|x64
+		{CFA19010-C07B-4C20-9C62-D34F0C3A3F4C}.Release|x86.ActiveCfg = Release|Win32
+		{CFA19010-C07B-4C20-9C62-D34F0C3A3F4C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E3918D0-5BE0-4DC1-9D33-997C1693E169}
+	EndGlobalSection
+EndGlobal
